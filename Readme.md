@@ -1,4 +1,5 @@
-# Ubisoft Watch_Dogs 2 simulated flood dataset
+# Ubisoft Watch_Dogs 2(c) - Ubisoft La Forge - Simulated flood dataset
+
 
 This dataset can be used for usage described in the common creative License 4.0 ( See License.txt )
 
