@@ -8,7 +8,7 @@ Initial goal to create this dataset was to use simulated data to help improve GA
 For more information please take a look here: https://mila.quebec/en/ai-society/visualizing-climate-change/
 However it can be used for other Machine Learning and Computer Vision algorithms and more. 
 
-## There are 4 subfolders:
+## There are 3 subfolders:
 1. Normal - all the 467 normal images, captures of city landmarks that look like Google street view images
 2. Flood  - flooded paires of 467 images that we have in Normal folder, same camera view, same size, only difference is the flood
 3. Mask   - here we have 467 binary masks of the flooded images, so black and white images, where white is for water and black is for everything else
